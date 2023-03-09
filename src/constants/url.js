@@ -1,3 +1,3 @@
-export const BASE_URL = "http://localhost:3003";
+export const BASE_URL = "https://deploy-x72n.onrender.com";
 
 export const TOKEN_NAME = "labefy-token"
